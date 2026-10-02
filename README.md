@@ -1,7 +1,7 @@
-<h1>WAN Configuration & Layer 1 and 3 Troubleshooting</h1>
+<h1>Static Route Configuration & Layer 1 and 3 Troubleshooting</h1>
 
 <h2>Objective</h2>
-Create a WAN with three subnets, configure IP addresses on each interface connected with its neighboring router and route, and troubleshooting using the OSI Model with layers, Layer 1 (Physical Layer) and Layer 3 (Network Layer) to communicate from one end of the router to the other end of the router.
+Create static route configuration with three subnets, configure IP addresses on each interface connected with its neighboring router and route, and troubleshooting using the OSI Model with layers, Layer 1 (Physical Layer) and Layer 3 (Network Layer) to communicate from one end of the router to the other end of the router.
 
 <h2>Important Commands Used for Configuration and Troubleshooting</h2>
 -	Traceroute <br>
